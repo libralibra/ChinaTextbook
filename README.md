@@ -77,12 +77,3 @@
 ## 重新下载
 - 如果您位于内地，并且网络不错，想重新下载，您可以使用 [tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) 项目（鼓励开源），进行重新下载。
 - 如果您位于国外，和内地网络通信速度较慢，建议使用本存储库进行签出。
-
-
-
-## 支持我
-
-如果您觉得这个项目对您有帮助，您可以扫描以下二维码进行捐赠：
-<p align="left">
-  <img src=".cache/support-alipay.png" width="20%">
-</p>
